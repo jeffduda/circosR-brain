@@ -1,9 +1,11 @@
-Package: circosR.brain
+Package: circosr.brain
 Type: Package
 Title: Call circos for brain connectograms
 Version: 1.0
 Date: 2021-02-06
-Author: Jeffrey Duda
+Authors@R: person("Jeffrey", "Duda", email = "jeff.duda@gmail.com",
+                  role = c("aut", "cre"))
 Maintainer: Jeffrey Duda <jeff.duda@gmail.com>
 Description: Call circos for brain connectograms
-License: What license is it under?
+License: MIT
+LazyData: true

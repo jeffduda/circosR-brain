@@ -1,7 +1,7 @@
-\name{lausanne125Labels}
-\alias{lausanne125Labels}
+\name{lausanne125LabelInfo}
+\alias{lausanne125LabelInfo}
 \docType{data}
-\title{lausanne125Labels
+\title{lausanne125LabelInfo
 }
 \description{
 Lausanne 125 brain labels
