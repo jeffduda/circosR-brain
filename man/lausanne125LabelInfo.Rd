@@ -6,7 +6,7 @@
 \description{
 Lausanne 125 brain labels
 }
-\usage{data("lausanne125Labels")}
+\usage{data("lausanne125LabelInfo")}
 \format{
   A data frame with 234 observations on the following 5 variables.
   \describe{
