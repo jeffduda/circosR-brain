@@ -1,11 +1,10 @@
 \name{lausanne125Labels}
 \alias{lausanne125Labels}
 \docType{data}
-\title{
-%%   ~~ data name/kind ... ~~
+\title{lausanne125Labels
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
+Lausanne 125 brain labels
 }
 \usage{data("lausanne125Labels")}
 \format{
