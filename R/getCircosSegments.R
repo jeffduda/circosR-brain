@@ -1,4 +1,4 @@
-writeCircosSegments <- function( dat, file ) {
+getCircosSegments <- function( dat ) {
 
   dat$colorName = tolower(gsub("[^[:alnum:]]", "", dat$name))
   nr = nrow(dat)
